@@ -14,14 +14,30 @@ body {
   font-size: 15px;
 }
 
-img {
-  width: 375px;
+.img,
+.img-overlay {
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
 }
 
-h1,
-p {
+.img {
+  width: 375px;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  background: url(/images/image-header-mobile.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 27vh;
+}
+
+.img-overlay {
+  width: 375px;
+  min-height: 27vh;
+  background-color: rgba(108, 25, 203, 0.56);
+}
+
+.main-header {
   width: 300px;
   margin: auto;
   text-align: center;
