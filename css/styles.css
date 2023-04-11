@@ -43,6 +43,22 @@ body {
   text-align: center;
 }
 
+.main-paragraph {
+  width: 260px;
+  margin: auto;
+  text-align: center;
+}
+
+.main-header {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.violet-text {
+  color: rgba(108, 25, 203);
+}
+
 .container {
   width: 375px;
   margin: auto;
