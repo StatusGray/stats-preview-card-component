@@ -24,7 +24,7 @@ body {
   width: 375px;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
-  background: url(/images/image-header-mobile.jpg);
+  background: url(https://i.imgur.com/sbierIU.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -105,12 +105,12 @@ body {
 /* small */
 @media screen and (min-width: 361px) and (max-width: 480px) {
   .img {
-    min-height: 29vh;
+    min-height: 26vh;
     width: 320px;
   }
 
   .img-overlay {
-    min-height: 29vh;
+    min-height: 26vh;
     width: 320px;
   }
 
@@ -122,12 +122,12 @@ body {
 /* Medium-only */
 @media screen and (min-width: 481px) and (max-width: 960px) {
   .img {
-    min-height: 29vh;
+    min-height: 22vh;
     width: 320px;
   }
 
   .img-overlay {
-    min-height: 29vh;
+    min-height: 22vh;
     width: 320px;
   }
 
@@ -139,7 +139,7 @@ body {
 @media screen and (min-width: 960px) {
   .img {
     width: 400px;
-    background: url(/images/image-header-desktop.jpg);
+    background: url(https://i.imgur.com/uaujyb0.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
