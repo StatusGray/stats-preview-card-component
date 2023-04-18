@@ -24,8 +24,7 @@ body {
   width: 375px;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
-  /* background: url(https://i.imgur.com/sbierIU.jpg); */
-  background: url(/images/image-header-mobile.jpg);
+  background: url(https://i.imgur.com/sbierIU.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
